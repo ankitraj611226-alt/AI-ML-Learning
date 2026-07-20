@@ -33,10 +33,14 @@ AI-ML-Learning/
 ├── Day_00/
 │   └── day0_python_basics.py
 ├── Day_01/
+│   └── day1_python_logic_numpy.py
 ├── Day_02/
 ├── Day_03/
 └── ...
 ```
+
+
+
 
 ---
 
