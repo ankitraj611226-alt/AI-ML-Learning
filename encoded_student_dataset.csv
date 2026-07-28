@@ -1,0 +1,7 @@
+Student_ID,Name,Gender,Performance,Gender_Encoded,Performance_Encoded,Department_AI,Department_CSE,Department_IT
+101,Ankit,Male,Excellent,1,1,True,False,False
+102,Rahul,Male,Good,1,2,False,True,False
+103,Priya,Female,Good,0,2,True,False,False
+104,Aman,Male,Average,1,0,False,False,True
+105,Neha,Female,Excellent,0,1,False,True,False
+106,Riya,Female,Average,0,0,True,False,False

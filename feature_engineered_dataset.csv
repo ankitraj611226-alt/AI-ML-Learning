@@ -1,0 +1,7 @@
+Student_ID,Name,Study_Hours,Attendance,Marks,Total_Score,Average_Score,Performance,Efficiency,Rank
+106,Riya,8,95,98,193,96.5,Excellent,12.25,1
+105,Neha,7,97,95,192,96.0,Excellent,13.57,2
+102,Rahul,6,92,91,183,91.5,Excellent,15.17,3
+101,Ankit,4,85,82,167,83.5,Good,20.5,4
+103,Priya,5,88,76,164,82.0,Good,15.2,5
+104,Aman,3,75,69,144,72.0,Needs Improvement,23.0,6
