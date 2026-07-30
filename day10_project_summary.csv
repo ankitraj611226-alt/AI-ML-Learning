@@ -1,0 +1,2 @@
+Dataset Size,Training Samples,Testing Samples,Original Accuracy,Loaded Model Accuracy,Model Serialized,Encoder Serialized,Batch Prediction Report
+500,400,100,0.6,0.6,True,True,Generated
