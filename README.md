@@ -1,4 +1,4 @@
-# 🤖 AI-ML-Learning
+# 🤖 AI-ML-TRAINING-PROGRAM
 
 Welcome to my AI & Machine Learning learning journey. 🚀
 
